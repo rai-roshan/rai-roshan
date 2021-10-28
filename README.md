@@ -10,13 +10,13 @@
 <br />
 <br />
 
-Hello, I am Roshan Rai , software developer , really passionate about product development , currently in final year of college , working and exploring hackathons with my friends , while exporing various tech stack but also making the basic concepts strong.   
+Hello World, I am Roshan Rai , software developer in making , passionate about product development , currently in final year of college , working and exploring hackathons with my friends , while exporing various tech stack but also making the basic concepts strong.   
 
 My current status:
 
 - 🔭 I’m currently working on react native
 - 🌱 I’m currently learning Next JS 
-- 👯 I’m looking to collaborate on Gorup Projects, Internship
+- 👯 I’m looking to collaborate on Group Projects, Internship
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Js and realted frameworks
 - 📫 How to reach me: roshan22037@gmail.com
