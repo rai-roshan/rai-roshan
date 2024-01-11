@@ -1,6 +1,6 @@
 ### Hi there 👋 [Roshan Rai](https://www.roshanrai.com/) here
 
-<a href="https://www.roshanrai.com/" target="_blank">
+<a href="https://www.roshanrai.org/" target="_blank">
   <img align="left" alt="Roshan's website" width="22px" src="https://user-images.githubusercontent.com/46826283/150720658-8aff9f66-0280-47b6-b4f6-c599257b99b1.png" />
 </a>
 <a href="https://www.linkedin.com/in/rai-roshan-962173184/" target="_blank">
